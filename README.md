@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working at NETmanage SA<br>🌱 I’m currently working on a mobile app using React Native and Django + learning React
+🔭 I am currently working at NETmanage SA<br>🌱 I am currently working on a mobile app using React Native and Django + learning React
 
 
 ## 🌐 Socials:
