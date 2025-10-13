@@ -1,5 +1,5 @@
 # About Me:
-🔭 I am currently working at NETmanage SA as a full-stack developer<br>🌱 I am currently working on a website using Vue.js and GO
+🔭 I am currently working at NETmanage SA as a full-stack developer<br>🌱 I am currently working on a website using Vue.js, GO and n8n
 
 
 # Tech Stack:
