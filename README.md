@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working at NETmanage SA as a full-stack developer<br>🌱 I am currently working on a website using Next.js and MongoDB
+🔭 I am currently working at NETmanage SA as a full-stack developer<br>🌱 I am currently working on a website using Vue.js and GO
 
 
 # 💻 Tech Stack:
